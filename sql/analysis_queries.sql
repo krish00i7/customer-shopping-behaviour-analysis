@@ -112,7 +112,7 @@ select
 from
     customer_type
 group by
-    customer_segmnt;
+    customer_segment;
 
 -- Q8. What are the top 3 most purchased products within each category?
  
